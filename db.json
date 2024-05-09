@@ -1,0 +1,54 @@
+{
+  "profesores": [
+    {
+      "nombre": "Roberto",
+      "apellido": "Rdz",
+      "materias": [
+        {
+          "nombre": "matematicas"
+        },
+        {
+          "nombre": "español"
+        },
+        {
+          "nombre": "ciencias"
+        }
+      ],
+      "id": "3d15"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "maria",
+      "apellido": "caldera",
+      "promedio": 9.3,
+      "id": "35d1"
+    },
+    {
+      "nombre": "carlos",
+      "apellido": "martinez",
+      "promedio": 10,
+      "id": "fe3f"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "nodejs",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "9fe8"
+    },
+    {
+      "nombre": "reactjs",
+      "duracion": 5,
+      "dificultad": "baja",
+      "id": "0227"
+    },
+    {
+      "nombre": "nestjs",
+      "duracion": 9,
+      "dificultad": "alta",
+      "id": "fb26"
+    }
+  ]
+}
